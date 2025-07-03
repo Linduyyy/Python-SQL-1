@@ -1,17 +1,5 @@
 # Python-SQL-1
 
-## Overview
-Proyek ini melibatkan pembersihan dan analisis menyeluruh terhadap data **retail_orders** . Proses pembersihan data dilakukan menggunakan Python dengan bantuan library pandas, sedangkan analisis data dilakukan menggunakan SQL untuk menjawab pertanyaan-pertanyaan bisnis yang relevan. README ini memberikan penjelasan lengkap mengenai tujuan proyek, perumusan masalah bisnis, langkah-langkah solusi, temuan utama, serta kesimpulan akhir dari analisis yang dilakukan.
-
-## Objectives
-Proyek ini memiliki tujuan utama untuk mengidentifikasi pola dan tren penting dalam data penjualan retail dengan fokus pada aspek berikut:
-1. Membersihkan dan mempersiapkan data menggunakan Python dan pandas, termasuk menghapus duplikasi, menangani nilai kosong, dan memastikan konsistensi tipe data.
-2. Mengevaluasi performa penjualan berdasarkan wilayah, kategori produk, dan segmentasi pelanggan.
-3. Mengidentifikasi produk-produk dengan penjualan tertinggi di setiap wilayah dan kategori.
-4. Menganalisis dampak diskon terhadap profitabilitas dan volume penjualan.
-5. Menghasilkan insight bisnis yang dapat digunakan untuk mendukung pengambilan keputusan strategis, seperti alokasi stok dan penentuan target penjualan.
-6. Membangun query SQL yang efisien untuk menjawab pertanyaan-pertanyaan bisnis secara langsung dari database.
-
 ## Dataset
 Data yang digunakan berasal dari Kaggle :
 
